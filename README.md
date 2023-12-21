@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @badshashorif
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Md. Shoriful Islam (Badsha)
+- 👀 I’m interested in DevOps, System and Network Administration
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on Cloud Computing, Network and System Automation
 - 📫 How to reach me skype id: badshashorif
 
 <!---
