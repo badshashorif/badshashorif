@@ -79,10 +79,10 @@
 ---
 
 ### 📈 GitHub Stats
-<!-- Replace <badshashorif> with your actual GitHub username -->
+<!-- Replace badshashorif with your actual GitHub username -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=<badshashorif>&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<badshashorif>&layout=compact&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=badshashorif&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badshashorif&layout=compact&theme=default" height="150" />
 </p>
 
 ---
