@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://wetechi.com">🌐 Website</a> •
-  <a href="mailto:hello@wetechi.com">📧 Email</a> •
-  <a href="https://t.me/<your-telegram>">💬 Telegram</a> •
-  <a href="https://www.linkedin.com/in/<your-linkedin>">🔗 LinkedIn</a>
+  <a href="mailto:info@wetechi.com">📧 Email</a> •
+  <a href="https://t.me/badshashorif">💬 Telegram</a> •
+  <a href="https://www.linkedin.com/in/badshashorif">🔗 LinkedIn</a>
 </p>
 
 ---
